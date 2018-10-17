@@ -1,4 +1,4 @@
-# 🌴💻 Awesome Alicante Remote Work
+# 🏖️💻 Awesome Alicante Remote Work
 Alicante awesome places to work remotely.
 
 |                                                        | category | map                                  |
