@@ -1,2 +1,2 @@
 # 🌴💻 Awesome Alicante Remote Work
-Alicante awesome places to work remotely
+Alicante awesome places to work remotely.
