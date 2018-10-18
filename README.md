@@ -10,7 +10,7 @@ Alicante awesome places to work remotely.
 | [Dulce Affaire](https://www.facebook.com/dulceaffaire/) | ☕ cafe  | [📍](https://goo.gl/maps/u7cCgr3UN9C2) |
 | [El Corte Inglés](https://www.elcorteingles.es/centroscomerciales/es/eci/servicios/cafeteria?shopping_center_id=centro-comercial-avenida-maisonnave) | ☕ cafe  | [📍](https://goo.gl/maps/UYBMnoA2fus) |
 | [El Cresol](https://www.facebook.com/pg/elcresolcafecultural/about/) | ☕ cafe  | [📍](https://goo.gl/maps/MVmMzJ9eVrG2) |
-| [El Molí Pan & Café](http://elmolipanycafe.com/el-moli-devesa-2/) | ☕ cafe  | [📍](https://www.google.com/maps/place/El+Moli+Pan+Y+Caf%C3%A9+-+Devesa/@38.359502,-0.484436,16z/data=!4m13!1m7!3m6!1s0xd623700c2797311:0x363bcc6aebe17fc1!2sCarrer+Devesa,+8,+03010+Alacant!3b1!8m2!3d38.359502!4d-0.4844363!3m4!1s0xd623700c2797311:0xcbf9c00232c4f4ca!8m2!3d38.359502!4d-0.4844363?hl=es-ES) |
+| [El Molí Pan & Café](http://elmolipanycafe.com/el-moli-devesa-2/) | ☕ cafe  | [📍](https://goo.gl/maps/KuCBM88bMez) |
 | [Granier](https://pansgranier.com/) | ☕ cafe  | [📍](https://goo.gl/maps/WFvWnFcX2xo) |
 | [La Coquette](https://www.facebook.com/cafelacoquette/) | ☕ cafe  | [📍](https://goo.gl/maps/LNAQUtaGwo62) |
 | [Madness Specialty Coffee](https://madnesscoffee.com/) | ☕ cafe  | [📍](https://goo.gl/maps/TZ5CwuLmxCt) |
