@@ -20,6 +20,7 @@ Alicante awesome places to work remotely.
 | [Panadería Cristina](https://www.facebook.com/pages/category/Bakery/Panaderia-Cafeteria-Cristina-Quintana-522360304535387/) | ☕ cafe  | [📍](https://goo.gl/maps/fo8q8mgZwqv) |
 | [Ravi](https://www.facebook.com/pg/RAVI-CAF%C3%89-Alicante-productos-Km-0-490327844473975/about/) | ☕ cafe  | [📍](https://goo.gl/maps/zVLczLcneBR2) |
 | [Samarkanda](https://www.facebook.com/SamarkandaCafe/) | ☕ cafe  | [📍](https://goo.gl/maps/mFChN9cnZt12) |
+| [Starbucks](https://www.starbucks.es/) | ☕ cafe  | [📍](https://g.page/Starbucks_Rambla_Mendez_Nunez?share) |
 | [Tetería The Xoxi´s](https://www.facebook.com/pages/category/Tea-Room/Teteria-The-xoxis-537005796340556/) | ☕ cafe  | [📍](https://goo.gl/maps/v2kDvVwJ28t) |
 | [Tierra solidaria](https://www.facebook.com/tierrasolidaria/) | ☕ cafe  | [📍](https://goo.gl/maps/5Ew1h1Wjpwj) |
 | [Tres semillas](http://tressemillas.com/cafeteria/) | ☕ cafe  | [📍](https://goo.gl/maps/NxoRrgNHHp22) |
