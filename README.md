@@ -5,12 +5,10 @@ Alicante awesome places to work remotely.
 |--------------------------------------------------------|----------|--------------------------------------|--------|---------|
 | [Baker & Co.](http://bakerandco.es/) | ☕ cafe  | [📍](https://goo.gl/maps/yj3MgAhu3B22) |⭐️⭐️⭐️|Awesome breakfast, but a bit noisy.
 | [Biblioteca pública Azorín](https://www.facebook.com/pg/Biblioteca-P%C3%BAblica-Azor%C3%ADn-de-Alicante-1529755180673749/about/) | 📙 library  | [📍](https://goo.gl/maps/1edtak6146S2) |
-| [Canada Coffee](http://www.canadacoffee.es) | ☕ cafe  | [📍](https://goo.gl/maps/rfchRY7NQvy) |
-| [Coffee Nutz](https://www.facebook.com/CoffeeNutz) | ☕ cafe  | [📍](https://goo.gl/maps/1pzTdwL8WTs) |
 | [Dulce Affaire](https://www.facebook.com/dulceaffaire/) | ☕ cafe  | [📍](https://goo.gl/maps/u7cCgr3UN9C2) |
 | [El Corte Inglés](https://www.elcorteingles.es/centroscomerciales/es/eci/servicios/cafeteria?shopping_center_id=centro-comercial-avenida-maisonnave) | ☕ cafe  | [📍](https://goo.gl/maps/UYBMnoA2fus) |
 | [El Cresol](https://www.facebook.com/pg/elcresolcafecultural/about/) | ☕ cafe  | [📍](https://goo.gl/maps/MVmMzJ9eVrG2) |
-| [El Molí Pan & Café](http://elmolipanycafe.com/el-moli-devesa-2/) | ☕ cafe  | [📍](https://goo.gl/maps/KuCBM88bMez) |
+| [El Molí Pan & Café](http://elmolipanycafe.com/el-moli-devesa-2/) | ☕ cafe  | [📍](https://goo.gl/maps/KuCBM88bMez) |⭐️|Cheap breakfast but bad Wifi and only one soffa!
 | [Granier](https://pansgranier.com/) | ☕ cafe  | [📍](https://goo.gl/maps/WFvWnFcX2xo) |
 | [La Coquette](https://www.facebook.com/cafelacoquette/) | ☕ cafe  | [📍](https://goo.gl/maps/LNAQUtaGwo62) |
 | [Madness Specialty Coffee](https://madnesscoffee.com/) | ☕ cafe  | [📍](https://goo.gl/maps/TZ5CwuLmxCt) |⭐️|Good place, bad WiFi!
