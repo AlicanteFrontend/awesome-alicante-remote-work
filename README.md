@@ -22,3 +22,5 @@ Alicante awesome places to work remotely.
 | [Tetería The Xoxi´s](https://www.facebook.com/pages/category/Tea-Room/Teteria-The-xoxis-537005796340556/) | ☕ cafe  | [📍](https://goo.gl/maps/v2kDvVwJ28t) |
 | [Tierra solidaria](https://www.facebook.com/tierrasolidaria/) | ☕ cafe  | [📍](https://goo.gl/maps/5Ew1h1Wjpwj) |
 | [Tres semillas](http://tressemillas.com/cafeteria/) | ☕ cafe  | [📍](https://goo.gl/maps/NxoRrgNHHp22) |
+
+> The ratings and comments that appear are an average of the person adding the place, if you wan't to add your review, feel free to do so and make the average yourself! 😉
